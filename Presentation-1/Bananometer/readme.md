@@ -6,3 +6,4 @@
 
 Тэгэхээр эхлэхийн тулд бид Teachable Machine руу орж [зураг төсөл](https://teachablemachine.withgoogle.com/train/image) нээнэ.
 
+**ХЭРХЭН МАШИНИЙГ СУРГАХ ВЭ**
